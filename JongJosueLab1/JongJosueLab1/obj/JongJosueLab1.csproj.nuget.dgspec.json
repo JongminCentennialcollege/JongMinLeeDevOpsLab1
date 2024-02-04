@@ -1,31 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sohee\\source\\repos\\JongJosueLab1\\JongJosueLab1\\JongJosueLab1.csproj": {}
+    "/Users/jongminlee/Desktop/DevOps/comp367Lee_Lab1/comp367Lee-lab1/JongMinLeeDevOpsLab1/JongJosueLab1/JongJosueLab1/JongJosueLab1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sohee\\source\\repos\\JongJosueLab1\\JongJosueLab1\\JongJosueLab1.csproj": {
+    "/Users/jongminlee/Desktop/DevOps/comp367Lee_Lab1/comp367Lee-lab1/JongMinLeeDevOpsLab1/JongJosueLab1/JongJosueLab1/JongJosueLab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sohee\\source\\repos\\JongJosueLab1\\JongJosueLab1\\JongJosueLab1.csproj",
+        "projectUniqueName": "/Users/jongminlee/Desktop/DevOps/comp367Lee_Lab1/comp367Lee-lab1/JongMinLeeDevOpsLab1/JongJosueLab1/JongJosueLab1/JongJosueLab1.csproj",
         "projectName": "JongJosueLab1",
-        "projectPath": "C:\\Users\\sohee\\source\\repos\\JongJosueLab1\\JongJosueLab1\\JongJosueLab1.csproj",
-        "packagesPath": "C:\\Users\\sohee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sohee\\source\\repos\\JongJosueLab1\\JongJosueLab1\\obj\\",
+        "projectPath": "/Users/jongminlee/Desktop/DevOps/comp367Lee_Lab1/comp367Lee-lab1/JongMinLeeDevOpsLab1/JongJosueLab1/JongJosueLab1/JongJosueLab1.csproj",
+        "packagesPath": "/Users/jongminlee/.nuget/packages/",
+        "outputPath": "/Users/jongminlee/Desktop/DevOps/comp367Lee_Lab1/comp367Lee-lab1/JongMinLeeDevOpsLab1/JongJosueLab1/JongJosueLab1/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\sohee\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/jongminlee/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
+          "/usr/local/share/dotnet/sdk/7.0.308/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -62,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
         }
       }
     }
